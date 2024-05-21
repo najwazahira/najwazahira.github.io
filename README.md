@@ -46,7 +46,6 @@
             <h1>Najwa Aufa Zahira</h1>
             <h3>Ringkasan Diri</h3>
             <p>Perkenalkan saya Najwa Aufa Zahira seorang lulusan SMP yang suka belajar, pantang menyerah, dan mau suka hal hal yg memicu adrenalin. Lulus dengan nilai rata-rata 90,00 dan berhasil menjadi 10 besar lulusan terbaik SMP 13 angkatan 2018 - 2019. Saat ini aktif sebagai siswi SMA 3 KOTA SERANG </p>
-        </header>
         <section>
             <h2>Informasi Kontak</h2>
             <ul>
@@ -74,5 +73,5 @@
                 <li>Mudah akrab</li>
             </ul>
         </section>
-    </div>
 </body>
+</html>
