@@ -1,1 +1,78 @@
-# najwazahira.github.io
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Najwa Aufa Zahira</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #F4C2C2;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        img {
+            width: 300px;
+            border-radius: 15%;
+        }
+        h1, h2, h3 {
+            margin-bottom: 20px;
+            color: #333;
+        }
+        p {
+            margin-bottom: 10px;
+            line-height: 1.6;
+        }
+        ul {
+            margin-left: 20px;
+        }
+        li {
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+    <body>
+    <img src="https://sonnyangelusa.com/cdn/shop/products/products_HIPPERS-Harvest-Series_02_png_1200x1200.png">
+    <body/>
+            <h1>Najwa Aufa Zahira</h1>
+            <h3>Ringkasan Diri</h3>
+            <p>Perkenalkan saya Najwa Aufa Zahira seorang lulusan SMP yang suka belajar, pantang menyerah, dan mau suka hal hal yg memicu adrenalin. Lulus dengan nilai rata-rata 90,00 dan berhasil menjadi 10 besar lulusan terbaik SMP 13 angkatan 2018 - 2019. Saat ini aktif sebagai siswi SMA 3 KOTA SERANG </p>
+        </header>
+        <section>
+            <h2>Informasi Kontak</h2>
+            <ul>
+                <li>Email: najwaaufa78@gmail.com</li>
+                <li>No Telp: 0895-3668-67491</li>
+                <a href="https://www.instagram.com/njwwjpg?igsh=bjBwemV4MXNsZTAy"> Instagram - njwwjpg
+    </a>
+            </ul>
+        </section>
+        <section>
+            <h2>Pendidikan</h2>
+            <p>SMAN 3 KOTA SERANG</p>
+        <section/>
+            <h2>Pengalaman Kerja</h2>
+            <ul>
+                <li>Pernah mengikuti lomba nyanyi</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Keahliaan dan Kompetensi</h2>
+            <ul>
+                <li>Mudah berbaur</li>
+                <li>Komunikatif</li>
+                <li>Suka bermain</li>
+                <li>Mudah akrab</li>
+            </ul>
+        </section>
+    </div>
+</body>
